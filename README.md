@@ -1,0 +1,2 @@
+# Disaster-survivors-detection---Optimized-method
+Using YOLO v3 object detection with tensorflow we are detecting the survivors in the areas of disaster. Our code willbe embedded on a droneand we are using IR camera to capture the images or videos of survivors. Then with our TF+YOLO method we are detecting.Since we are using TF tensorflow-gpu will be available.That makes the process faster and also fps is high.
